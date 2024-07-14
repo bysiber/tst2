@@ -1,0 +1,10 @@
+The sources for the report is placed in the sources folder, 
+move them to whatever directory you need to get this working.
+Dont upload or download to sharepoint, 
+the sharepoint is used for source and destination. 
+please comment those out so that it doesnt give errors.
+Comment out any irrelevant stuff, 
+like sendng emails or anything that is not relevant to the task. 
+all the urls have been removed - 
+if you want the errors to be emailed feel free to put yours in it.
+ 
